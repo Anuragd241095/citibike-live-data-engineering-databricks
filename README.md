@@ -222,6 +222,10 @@ The notebooks were developed against existing project tables. Initial table setu
 - Add automated data quality tests.
 - Improve deployment reproducibility using configuration files and infrastructure automation.
 
+- ## Dashboard Preview
+
+![Citi Bike Live Operations Dashboard](dashboard.png)
+
 ---
 
 **Project type:** Data Engineering Portfolio Project
